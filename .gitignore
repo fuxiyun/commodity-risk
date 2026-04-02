@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+data/raw/
+outputs/logs/
+outputs/charts/
+outputs/desk_note.pdf
+.DS_Store
